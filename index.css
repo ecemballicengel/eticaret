@@ -1,0 +1,112 @@
+.nav-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  background-color: red;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-li {
+  padding: 9px;
+  display: inline;
+  text-align: center;
+  margin-left: 13%;
+  background-color: red;
+}
+
+.nav-a {
+  text-decoration: none;
+  text-align: center;
+  margin-top: -15px;
+  background-color: red;
+  color: white;
+}
+
+.e-trade {
+  padding: 25px;
+  text-align: center;
+  height: 100px;
+}
+
+.top-brands {
+  padding: 25px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 25px;
+}
+
+.brand {
+  display: inline;
+  padding: 50px;
+}
+
+.brand-img {
+  width: 100px;
+}
+
+.ceo-photo {
+  float: left;
+  padding: 5px;
+}
+
+.ceo-photo > img {
+  width: 300px;
+  height: 350px;
+  border-radius: 10px;
+}
+
+.ceo-bio {
+  padding: 5px;
+
+  max-width: 500px;
+  max-height: 300px;
+  float: left;
+}
+
+.employee-photo {
+  padding: 15px;
+}
+
+.employee-photo > img {
+  width: 150px;
+  height: 150px;
+  padding-left: 5px;
+  border-radius: 10px;
+}
+
+.top-seller {
+  margin-top: 20px;
+  padding: 20px;
+}
+.item {
+  padding: 25px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: red;
+  margin-left: 45px;
+  width: 150px;
+  height: 150px;
+  float: left;
+  box-shadow: 2px 2px 10px 4px rgba(128, 128, 128, 0.521);
+  transition: all ease 0.3s;
+}
+.item-img {
+  width: 50px;
+  height: 50px;
+  align-items: center;
+}
+
+.footer {
+  background-color: red;
+  color: white;
+  width: 1350px;
+  padding: 5px;
+  overflow: hidden;
+  margin: 5px;
+  text-align: center;
+}
